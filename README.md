@@ -9,3 +9,4 @@ fractional maxpooling | 0.4173 | 0.8526 | **0.9990** | 0.6928 | 0.7026
 maxpooling            | **0.1654** | **0.9444** | 1.0622 | **0.7211** | **0.7184**
 
 # Summary
+In this paper, they achevied state-of-the-art result, but in my model structure, it perfromed similar to maxpooling, one can try both method and check which bring you a better validation accuracy.
